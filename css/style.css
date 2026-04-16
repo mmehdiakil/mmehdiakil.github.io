@@ -429,4 +429,13 @@ body {
     .projects-grid {
         grid-template-columns: 1fr;
     }
+    .btn-cv {
+    background-color: #e31e24;
+    color: white;
+}
+
+.btn-cv:hover {
+    background-color: #b5181d;
+    transform: translateY(-2px);
+}
 }
